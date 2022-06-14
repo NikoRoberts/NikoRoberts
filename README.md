@@ -2,6 +2,13 @@
 
 ![Niko's github stats](https://github-readme-stats.vercel.app/api?username=NikoRoberts&count_private=true)
 
+- 🔭 I’m currently working on growing an engineering team in Portugal
+- 🌱 I’m currently learning how to re-shape monoliths
+- 👯 I’m looking to collaborate on making micro-frontends efficient
+- 💬 Ask me about being an entrepreneurial software engineer
+- 📫 How to reach me: https://www.linkedin.com/in/nikoroberts/
+- 😄 Pronouns: he/him/his
+
 <!--
 **NikoRoberts/NikoRoberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
